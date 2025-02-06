@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Desarrollador de Software",
+    "description": "Responsable del desarrollo y mantenimiento de aplicaciones web.",
+    "company": "Tech Solutions",
+    "salary": 50000,
+    "city": "CDMX",
+    "requirements": [
+      "Experiencia en JavaScript",
+      "Conocimiento de frameworks como React o Angular",
+      "Capacidad para trabajar en equipo"
+    ],
+    "active": true
+  },
+  {
+    "id": 2,
+    "title": "Analista de Datos",
+    "description": "Analizar grandes volúmenes de datos para extraer información valiosa.",
+    "company": "Data Insights",
+    "salary": 45000,
+    "city": "Guadalajara",
+    "requirements": [
+      "Experiencia en SQL",
+      "Conocimiento de herramientas de visualización de datos",
+      "Habilidades analíticas"
+    ],
+    "active": true
+  },
+  {
+    "id": 3,
+    "title": "Ingeniero de DevOps",
+    "description": "Implementar y mantener la infraestructura de CI/CD.",
+    "company": "Cloud Services",
+    "salary": 60000,
+    "city": "Monterrey",
+    "requirements": [
+      "Experiencia en AWS",
+      "Conocimiento de Docker y Kubernetes",
+      "Habilidades en scripting"
+    ],
+    "active": false
+  },
+  {
+    "id": 4,
+    "title": "Diseñador UX/UI",
+    "description": "Crear interfaces de usuario atractivas y funcionales.",
+    "company": "Creative Studio",
+    "salary": 40000,
+    "city": "Puebla",
+    "requirements": [
+      "Experiencia en diseño gráfico",
+      "Conocimiento de herramientas como Figma o Sketch",
+      "Capacidad para trabajar con equipos de desarrollo"
+    ],
+    "active": true
+  },
+  {
+    "id": 5,
+    "title": "Administrador de Sistemas",
+    "description": "Gestionar y mantener la infraestructura de TI de la empresa.",
+    "company": "IT Solutions",
+    "salary": 55000,
+    "city": "Querétaro",
+    "requirements": [
+      "Experiencia en administración de sistemas Linux y Windows",
+      "Conocimiento de redes y seguridad",
+      "Habilidades de resolución de problemas"
+    ],
+    "active": false
+  }
+]

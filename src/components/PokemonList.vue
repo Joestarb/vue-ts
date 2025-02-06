@@ -26,4 +26,5 @@ const { pokemonList, isLoading } = storeToRefs(pokemonStore);
 
 // Obtener la lista de Pokémon al montar el componente
 pokemonStore.fetchPokemonList();
+
 </script>

@@ -1,0 +1,56 @@
+[
+  { "team": 1, "email": "frdpgr@gmail.com", "name": "Peguero Tejero Frida Paulina" },
+  { "team": 1, "email": "joseagar89@gmail.com", "name": "José Moisés Martínez Lara" },
+  { "team": 1, "email": "emmagamer85@gmail.com", "name": "Jose Emmanuel Pech Herrera" },
+  { "team": 1, "email": "edugutpach@gmail.com", "name": "Eduardo Gutiérrez Pacheco" },
+  {
+    "team": 1,
+    "email": "alejandrosanfer42@gmail.com",
+    "name": "Edwin Alejandro Sanchez Fernandez"
+  },
+  { "team": 2, "email": "ip345622@gmail.com", "name": "Israel Boquin Cancino" },
+  {
+    "team": 2,
+    "email": "alvaradosalazar85@gmail.com",
+    "name": "Alvarado Salazar Anthony Willians"
+  },
+  { "team": 2, "email": "chagalanolberto80@gmail.com", "name": "Nolberto Coto Chagala" },
+  {
+    "team": 2,
+    "email": "miguelangelortegamazun@gmail.com",
+    "name": "Miguel Angel Ortega Mazun"
+  },
+  {
+    "team": 2,
+    "email": "cancheramirezangeljulian83@gmail.com",
+    "name": "Canche Ramirez Angel Julian"
+  },
+  { "team": 3, "email": "e21gscancun@gmail.com", "name": "Guerrero Salgado Emiliano" },
+  { "team": 3, "email": "gaelaldairocho@gmail.com", "name": "Marquez Peralta Gael Aldair" },
+  { "team": 3, "email": "edgarmen159@gmail.com", "name": "Edgar Medrano Cordova" },
+  { "team": 3, "email": "haupech2@gmail.com", "name": "Marco Antonio Hau Pech" },
+  { "team": 3, "email": "jonathan.coox15@gmail.com", "name": "Jonathan Rafael Coox Carrillo" },
+  {
+    "team": 4,
+    "email": "gerardoantoniodiazrosales@gmail.com",
+    "name": "Gerardo Antonio Diaz Rosales"
+  },
+  { "team": 4, "email": "egomancera@gmail.com", "name": "Oscar Eduardo Gonzalez Mancera" },
+  { "team": 4, "email": "rdzkauil@gmail.com", "name": "Díaz Kauil José Raúl" },
+  { "team": 4, "email": "emilianoesparza2408@gmail.com", "name": "Emiliano Esparza Medina" },
+  { "team": 4, "email": "arturomartinezpolanco@gmail.com", "name": "Arturo Martinez Polanco" },
+  {
+    "team": 5,
+    "email": "jesusalexanderabadsanchezmarti@gmail.com",
+    "name": "jesus alexander abad sanchez martinez"
+  },
+  { "team": 5, "email": "martinezlopezirving4ampr@gmail.com", "name": "Martinez Lopez Irving" },
+  { "team": 5, "email": "joshgonzbv@gmail.com", "name": "Joshua Gonzalez Romero" },
+  { "team": 5, "email": "noelyaguilar1234@gmail.com", "name": "NOELY MONSERRAT AGUILAR CHUC" },
+  { "team": 5, "email": "lainesevelin@gmail.com", "name": "Evelin Yasmin Laines Cupul" },
+  { "team": 6, "email": "fco3190@gmail.com", "name": "FRANCISCO EMMANUEL ROJAS CERÓN" },
+  { "team": 6, "email": "gabo3000lizama@gmail.com", "name": "GABRIEL DAVID LIZAMA GOMEZ" },
+  { "team": 6, "email": "juan.salmeron332@gmail.com", "name": "JUAN DE DIOS SALMERON RIVERA" },
+  { "team": 6, "email": "saulgarcia3000204@gmail.com", "name": "SAUL GARCIA LOPEZ" },
+  { "team": 6, "email": "pravchavezlopez@gmail.com", "name": "William Joel Chavez Lopez" }
+]

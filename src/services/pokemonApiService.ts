@@ -12,14 +12,16 @@ const apiClient = axios.create({
 
 export default{
   //funcion para obtener la lista de pokemones donde el límite sea de 20
-  async getPokemonList(limit:number = 20): Promise <pokemonListResponse>{ //se hace una promesa para poder indicar a la función que espere el pokemonList
+  async getPokemonList(limit:number = 1): Promise <pokemonListResponse>{ //se hace una promesa para poder indicar a la función que espere el pokemonList
     const pokemoListResponse = await apiClient.get(`pokemon?limit=${limit}`) //se concatena la query en la baseUrl para hacer la peticion de 20 pkmns
+    console.log('lista de pokemons',pokemoListResponse.data)
     return pokemoListResponse.data;
   },
 
   //xd
   async getPokempnDetails(url: string): Promise<pokemon>{
     const pokemomResponse = await axios.get(url);
+    console.log('eso tilin',pokemomResponse.data)
     return pokemomResponse.data
   }
 

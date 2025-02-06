@@ -8,7 +8,7 @@ export const usePokemonStore = defineStore('pokemon', {
     isLoading: false,
   }),
   actions: {
-    async fetchPokemonList(limit: number = 20) {
+    async fetchPokemonList(limit: number = 1) {
       this.isLoading = true;
       try {
         const response = await pokemonApiService.getPokemonList(limit);
@@ -21,6 +21,8 @@ export const usePokemonStore = defineStore('pokemon', {
       } finally {
         this.isLoading = false;
       }
+
+
     },
   },
 });
